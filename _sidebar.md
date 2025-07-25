@@ -8,3 +8,4 @@
   * [2025-07-22 - Comenzando el Diario](entradas/2025-07-22.md)
   * [2025-07-23 - Modificaciones en repositorios y React](entradas/2025-07-23.md)
   * [2025-07-24 - Bases y Todo app en React](entradas/2025-07-24.md)
+  * [2025-07-25 - Continuando con React](entradas/2025-07-25.md)
