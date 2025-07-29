@@ -12,3 +12,4 @@
   * [2025-07-26 - Cerrando fundamentos de React](entradas/2025-07-26.md)
   * [2025-07-27 - Práctica y avance con la Todo App](entradas/2025-07-27.md)
   * [2025-07-28 - Últimos detalles en la Todo App](entradas/2025-07-28.md)
+  * [2025-07-29 - Proyecto finalizado: Todo App](entradas/2025-07-29.md)
