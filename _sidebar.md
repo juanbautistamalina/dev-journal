@@ -13,3 +13,4 @@
   * [2025-07-27 - Práctica y avance con la Todo App](entradas/2025-07-27.md)
   * [2025-07-28 - Últimos detalles en la Todo App](entradas/2025-07-28.md)
   * [2025-07-29 - Proyecto finalizado: Todo App](entradas/2025-07-29.md)
+  * [2025-07-30 - Estructura básica de Pokédex + Ideando mi App de Gimnasio con IA](entradas/2025-07-30.md)
