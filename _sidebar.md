@@ -16,3 +16,4 @@
   * [2025-07-30 - Estructura básica de Pokédex + Ideando mi App de Gimnasio con IA](entradas/2025-07-30.md)
   * [2025-07-31 - Pokédex en progreso y dudas sobre el camino](entradas/2025-07-31.md)
   * [2025-08-01 - Repaso de herramientas frontend](entradas/2025-08-01.md)
+  * [2025-08-02 - Iniciando proyecto de práctica](entradas/2025-08-02.md)
