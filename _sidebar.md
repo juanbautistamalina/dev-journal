@@ -17,3 +17,4 @@
   * [2025-07-31 - Pokédex en progreso y dudas sobre el camino](entradas/2025-07-31.md)
   * [2025-08-01 - Repaso de herramientas frontend](entradas/2025-08-01.md)
   * [2025-08-02 - Iniciando proyecto de práctica](entradas/2025-08-02.md)
+  * [2025-08-03 - Día de descanso ](entradas/2025-08-03.md)
