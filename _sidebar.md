@@ -18,3 +18,4 @@
   * [2025-08-01 - Repaso de herramientas frontend](entradas/2025-08-01.md)
   * [2025-08-02 - Iniciando proyecto de práctica](entradas/2025-08-02.md)
   * [2025-08-03 - Día de descanso ](entradas/2025-08-03.md)
+  * [2025-08-04 - Reorganizando mis notas ](entradas/2025-08-04.md)
