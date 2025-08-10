@@ -24,3 +24,4 @@
   * [2025-08-07 - Desafío de Frontend y continuando con React](entradas/2025-08-07.md)
   * [2025-08-08 - Práctica consistente en Frontend y React](entradas/2025-08-08.md)
   * [2025-08-09 - Día tranquilo, pero productivo](entradas/2025-08-09.md)
+  * [2025-08-10 - Práctica Frontend y React](entradas/2025-08-10.md)
