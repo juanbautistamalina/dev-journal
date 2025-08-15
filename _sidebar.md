@@ -29,3 +29,4 @@
   * [2025-08-12 - Teoría de la Web, preparación de entorno y React](entradas/2025-08-12.md)
   * [2025-08-13 - Frontend y React](entradas/2025-08-13.md)
   * [2025-08-14 - Git y React](entradas/2025-08-14.md)
+  * [2025-08-15 - Fundamentos de HTML y React](entradas/2025-08-15.md)
