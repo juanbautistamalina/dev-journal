@@ -32,3 +32,4 @@
   * [2025-08-15 - Fundamentos de HTML y React](entradas/2025-08-15.md)
   * [2025-08-16 - Ultra maratón y descanso](entradas/2025-08-16.md)
   * [2025-08-17 - Retomando la rutina](entradas/2025-08-17.md)
+  * [2025-08-18 - React + The Odin Project: retomando el camino](entradas/2025-08-18.md)
