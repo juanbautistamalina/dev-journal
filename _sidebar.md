@@ -36,3 +36,4 @@
   * [2025-08-19 - Trabajando en proyectos](entradas/2025-08-19.md)
   * [2025-08-20 - Avance en sitio web para cliente](entradas/2025-08-20.md)
   * [2025-08-21 - Fundamentos de HTML](entradas/2025-08-21.md)
+  * [2025-08-22 - Cierre del módulo de HTML en The Odin Project](entradas/2025-08-22.md)
