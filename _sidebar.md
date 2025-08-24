@@ -38,3 +38,4 @@
   * [2025-08-21 - Fundamentos de HTML](entradas/2025-08-21.md)
   * [2025-08-22 - Cierre del módulo de HTML en The Odin Project](entradas/2025-08-22.md)
   * [2025-08-23 - Proyecto de Recetas en The Odin Project](entradas/2025-08-23.md)
+  * [2025-08-24 - Del HTML al CSS: avanzando en The Odin Project](entradas/2025-08-24.md)
