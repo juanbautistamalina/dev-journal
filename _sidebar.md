@@ -41,3 +41,4 @@
   * [2025-08-24 - Del HTML al CSS: avanzando en The Odin Project](entradas/2025-08-24.md)
   * [2025-08-25 - Combinando trabajo real y estudio](entradas/2025-08-25.md)
   * [2025-08-26 - React y notas simplificadas](entradas/2025-08-26.md)
+  * [2025-08-27 - React y nuevo proyecto personal](entradas/2025-08-27.md)
