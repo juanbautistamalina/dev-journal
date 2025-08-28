@@ -42,3 +42,4 @@
   * [2025-08-25 - Combinando trabajo real y estudio](entradas/2025-08-25.md)
   * [2025-08-26 - React y notas simplificadas](entradas/2025-08-26.md)
   * [2025-08-27 - React y nuevo proyecto personal](entradas/2025-08-27.md)
+  * [2025-08-28 - Avanzando con Run Space](entradas/2025-08-28.md)
