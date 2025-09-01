@@ -46,3 +46,4 @@
   * [2025-08-29 - Mejorando Run Space](entradas/2025-08-29.md)
   * [2025-08-30 - Nuevas funcionalidades en Run Space](entradas/2025-08-30.md)
   * [2025-08-31 - Mejoras en estructura, estilos y nuevas funciones en Run Space](entradas/2025-08-31.md)
+  * [2025-09-01 - Día de repaso y continuidad en React](entradas/2025-09-01.md)
