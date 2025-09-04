@@ -49,3 +49,4 @@
   * [2025-09-01 - Día de repaso y continuidad en React](entradas/2025-09-01.md)
   * [2025-09-02 - Finalizando la primera versión de Run Space](entradas/2025-09-02.md)
   * [2025-09-03 - Avance con React](entradas/2025-09-03.md)
+  * [2025-09-04 - Reiniciando el curso de React con material exclusivo](entradas/2025-09-04.md)
