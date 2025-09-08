@@ -51,3 +51,4 @@
   * [2025-09-03 - Avance con React](entradas/2025-09-03.md)
   * [2025-09-04 - Reiniciando el curso de React con material exclusivo](entradas/2025-09-04.md)
   * [2025-09-05 - Avance breve antes del viaje](entradas/2025-09-05.md)
+  * [2025-09-06 - Carrera de montaña y pausa en la programación](entradas/2025-09-06.md)
