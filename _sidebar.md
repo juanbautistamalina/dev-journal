@@ -57,3 +57,4 @@
   * [2025-09-09 - Avances con el proyecto Chatbot en React](entradas/2025-09-09.md)
   * [2025-09-10 - Proyecto Chatbot finalizado](entradas/2025-09-10.md)
   * [2025-09-11 - Chatbot migrado a Vite](entradas/2025-09-11.md)
+  * [2025-09-12 - Comienzo del proyecto Ecommerce](entradas/2025-09-12.md)
