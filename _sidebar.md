@@ -58,3 +58,4 @@
   * [2025-09-10 - Proyecto Chatbot finalizado](entradas/2025-09-10.md)
   * [2025-09-11 - Chatbot migrado a Vite](entradas/2025-09-11.md)
   * [2025-09-12 - Comienzo del proyecto Ecommerce](entradas/2025-09-12.md)
+  * [2025-09-13 - Ultra de 70 km](entradas/2025-09-13.md)
