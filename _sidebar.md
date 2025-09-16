@@ -60,3 +60,4 @@
   * [2025-09-12 - Comienzo del proyecto Ecommerce](entradas/2025-09-12.md)
   * [2025-09-13 - Ultra de 70 km](entradas/2025-09-13.md)
   * [2025-09-14 - Día de recuperación](entradas/2025-09-14.md)
+  * [2025-09-15 - Formateo y limpieza del PC  ](entradas/2025-09-15.md)
