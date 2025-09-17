@@ -62,3 +62,4 @@
   * [2025-09-14 - Día de recuperación](entradas/2025-09-14.md)
   * [2025-09-15 - Formateo y limpieza del PC](entradas/2025-09-15.md)
   * [2025-09-16 - Retomando Run Space](entradas/2025-09-16.md)
+  * [2025-09-17 - Explorando NodeJS](entradas/2025-09-17.md)
