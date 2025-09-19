@@ -64,3 +64,4 @@
   * [2025-09-16 - Retomando Run Space](entradas/2025-09-16.md)
   * [2025-09-17 - Explorando NodeJS](entradas/2025-09-17.md)
   * [2025-09-18 - Módulos y fundamentos en NodeJS](entradas/2025-09-18.md)
+  * [2025-09-19 - Continuando con NodeJS](entradas/2025-09-19.md)
