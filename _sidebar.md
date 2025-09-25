@@ -70,3 +70,4 @@
   * [2025-09-22 - Profundizando en NodeJS](entradas/2025-09-22.md)
   * [2025-09-23 - Random Player y mejoras en Portfolio](entradas/2025-09-23.md)
   * [2025-09-24 - Ejercicios con NodeJS](entradas/2025-09-24.md)
+  * [2025-09-25 - Avanzando con NodeJS y primer servidor](entradas/2025-09-25.md)
