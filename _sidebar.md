@@ -75,3 +75,4 @@
   * [2025-09-27 - Aprendiendo http y organizando repositorios](entradas/2025-09-27.md)
   * [2025-09-28 - Primeros pasos con routing en http](entradas/2025-09-28.md)
   * [2025-09-29 - Primeros pasos con Express](entradas/2025-09-29.md)
+  * [2025-09-30 - Aprendiendo Express y migrando web a CMS](entradas/2025-09-30.md)
