@@ -78,3 +78,4 @@
   * [2025-09-30 - Aprendiendo Express y migrando web a CMS](entradas/2025-09-30.md)
   * [2025-10-01 - WordPress, Bootcamp y Routers en Express](entradas/2025-10-01.md)
   * [2025-10-02 - Práctica de NodeJS y Express](entradas/2025-10-02.md)
+  * [2025-10-03 - Avance con NodeJS y Express](entradas/2025-10-03.md)
