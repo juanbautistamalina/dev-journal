@@ -81,3 +81,4 @@
   * [2025-10-03 - Avance con NodeJS y Express](entradas/2025-10-03.md)
   * [2025-10-04 - Un día más de progreso con NodeJS](entradas/2025-10-04.md)
   * [2025-10-05 - Organización y avances con NodeJS](entradas/2025-10-05.md)
+  * [2025-10-06 - Avanzando con Express](entradas/2025-10-06.md)
