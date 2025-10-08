@@ -83,3 +83,4 @@
   * [2025-10-05 - Organización y avances con NodeJS](entradas/2025-10-05.md)
   * [2025-10-06 - Avanzando con Express](entradas/2025-10-06.md)
   * [2025-10-07 - Prácticas con Express y mejoras en dev-notes](entradas/2025-10-07.md)
+  * [2025-10-08 - Bootcamp FullStack InfoJobs: Día 2](entradas/2025-10-08.md)
