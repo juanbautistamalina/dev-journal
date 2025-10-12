@@ -86,3 +86,4 @@
   * [2025-10-08 - Bootcamp FullStack InfoJobs: Día 2](entradas/2025-10-08.md)
   * [2025-10-09 - Prácticas con módulos nativos](entradas/2025-10-09.md)
   * [2025-10-10 - Creación de mi proyecto personal BookTrackr](entradas/2025-10-10.md)
+  * [2025-10-11 - Primer avance en el desarrollo de BookTrackr](entradas/2025-10-11.md)
