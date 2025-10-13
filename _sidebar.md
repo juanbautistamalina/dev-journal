@@ -88,3 +88,4 @@
   * [2025-10-10 - Creación de mi proyecto personal BookTrackr](entradas/2025-10-10.md)
   * [2025-10-11 - Primer avance en el desarrollo de BookTrackr](entradas/2025-10-11.md)
   * [2025-10-12 - Día de pausa y reflexión](entradas/2025-10-12.md)
+  * [2025-10-13 - Avances en BookTrackr](entradas/2025-10-13.md)
