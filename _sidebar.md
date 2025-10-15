@@ -90,3 +90,4 @@
   * [2025-10-12 - Día de pausa y reflexión](entradas/2025-10-12.md)
   * [2025-10-13 - Avances en BookTrackr](entradas/2025-10-13.md)
   * [2025-10-14 - Funcionalidad en BookTrackr](entradas/2025-10-14.md)
+  * [2025-10-15 - Clase 3 del Bootcamp FullStack InfoJobs](entradas/2025-10-15.md)
