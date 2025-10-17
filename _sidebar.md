@@ -92,3 +92,4 @@
   * [2025-10-14 - Funcionalidad en BookTrackr](entradas/2025-10-14.md)
   * [2025-10-15 - Clase 3 del Bootcamp FullStack InfoJobs](entradas/2025-10-15.md)
   * [2025-10-16 - Avances en BookTrackr](entradas/2025-10-16.md)
+  * [2025-10-17 - Nuevas Funcionalidades en BookTrackr](entradas/2025-10-17.md)
