@@ -95,3 +95,4 @@
   * [2025-10-17 - Nuevas Funcionalidades en BookTrackr](entradas/2025-10-17.md)
   * [2025-10-18 - Corrección de errores en BookTrackr](entradas/2025-10-18.md)
   * [2025-10-19 - Repaso del Bootcamp InfoJobs](entradas/2025-10-19.md)
+  * [2025-10-20 - Avances en BookTrackr y nueva app GymGenius](entradas/2025-10-20.md)
