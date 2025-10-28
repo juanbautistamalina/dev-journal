@@ -99,3 +99,4 @@
   * [2025-10-21 - Mejoras en la interfaz de BookTrackr](entradas/2025-10-21.md)
   * [2025-10-22-26 - Días de descanso y desconexión](entradas/2025-10-22-26.md)
   * [2025-10-27 - Retomando el Bootcamp y React](entradas/2025-10-27.md)
+  * [2025-10-28 - Cierre del módulo de JavaScript](entradas/2025-10-28.md)
