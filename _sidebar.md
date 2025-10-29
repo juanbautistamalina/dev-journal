@@ -100,3 +100,4 @@
   * [2025-10-22-26 - Días de descanso y desconexión](entradas/2025-10-22-26.md)
   * [2025-10-27 - Retomando el Bootcamp y React](entradas/2025-10-27.md)
   * [2025-10-28 - Cierre del módulo de JavaScript](entradas/2025-10-28.md)
+  * [2025-10-29 - Clase 5 del Bootcamp FullStack InfoJobs](entradas/2025-10-29.md)
