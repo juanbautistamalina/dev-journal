@@ -102,3 +102,4 @@
   * [2025-10-28 - Cierre del módulo de JavaScript](entradas/2025-10-28.md)
   * [2025-10-29 - Clase 5 del Bootcamp FullStack InfoJobs](entradas/2025-10-29.md)
   * [2025-10-30 - Inicio de la migración a React](entradas/2025-10-30.md)
+  * [2025-10-31 - Día complicado](entradas/2025-10-31.md)
