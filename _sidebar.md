@@ -104,3 +104,4 @@
   * [2025-10-30 - Inicio de la migración a React](entradas/2025-10-30.md)
   * [2025-10-31 - Día complicado](entradas/2025-10-31.md)
   * [2025-11-01 - Desarrollando componente y trabajando en página web](entradas/2025-11-01.md)
+  * [2025-11-02 - Organización y trabajo en proyectos externos](entradas/2025-11-02.md)
