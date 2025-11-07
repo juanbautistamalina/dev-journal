@@ -109,3 +109,4 @@
   * [2025-11-04 - Creando Componentes y Pages en React](entradas/2025-11-04.md)
   * [2025-11-05 - Día Libre del Bootcamp y Ajustes en Proyecto de Cliente](entradas/2025-11-05.md)
   * [2025-11-06 - Ajustes y Organización en Página Web de Cliente](entradas/2025-11-06.md)
+  * [2025-11-07 - Mejoras de Estilo y Adaptación Mobile](entradas/2025-11-07.md)
