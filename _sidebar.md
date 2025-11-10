@@ -112,3 +112,4 @@
   * [2025-11-07 - Mejoras de Estilo y Adaptación Mobile](entradas/2025-11-07.md)
   * [2025-11-08 - Día de Descanso y Reflexión](entradas/2025-11-08.md)
   * [2025-11-09 - Otro Día de Descanso](entradas/2025-11-09.md)
+  * [2025-11-10 - Definiendo el Rumbo para lo que Resta del Año](entradas/2025-11-10.md)
