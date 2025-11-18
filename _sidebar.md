@@ -114,3 +114,4 @@
   * [2025-11-09 - Otro Día de Descanso](entradas/2025-11-09.md)
   * [2025-11-10 - Definiendo el Rumbo para lo que Resta del Año](entradas/2025-11-10.md)
   * [2025-11-11-17 - Días de Agotamiento y Retoma Progresiva](entradas/2025-11-11-17.md)
+  * [2025-11-18 - Repaso de JavaScript y Pruebas de Filtrado](entradas/2025-11-18.md)
