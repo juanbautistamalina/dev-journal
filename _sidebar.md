@@ -116,3 +116,4 @@
   * [2025-11-11-17 - Días de Agotamiento y Retoma Progresiva](entradas/2025-11-11-17.md)
   * [2025-11-18 - Repaso de JavaScript y Pruebas de Filtrado](entradas/2025-11-18.md)
   * [2025-11-19-30 - Recuperando el Hábito y Clarificando Objetivos](entradas/2025-11-19-30.md)
+  * [2025-12-01 - Ajustes en BookTrackr y Cierre del Módulo de JavaScript](entradas/2025-12-01.md)
