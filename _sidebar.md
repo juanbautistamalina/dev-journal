@@ -118,3 +118,4 @@
   * [2025-11-19-30 - Recuperando el Hábito y Clarificando Objetivos](entradas/2025-11-19-30.md)
   * [2025-12-01 - Ajustes en BookTrackr y Cierre del Módulo de JavaScript](entradas/2025-12-01.md)
   * [2025-12-02 - Retomando React (JSX y Componentes)](entradas/2025-12-02.md)
+  * [2025-12-03 - Últimos Detalles en JavaScript para BookTrackr](entradas/2025-12-03.md)
