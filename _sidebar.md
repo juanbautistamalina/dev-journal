@@ -119,3 +119,4 @@
   * [2025-12-01 - Ajustes en BookTrackr y Cierre del Módulo de JavaScript](entradas/2025-12-01.md)
   * [2025-12-02 - Retomando React (JSX y Componentes)](entradas/2025-12-02.md)
   * [2025-12-03 - Últimos Detalles en JavaScript para BookTrackr](entradas/2025-12-03.md)
+  * [2025-12-04 - Avances en Componentes y Eventos en React](entradas/2025-12-04.md)
