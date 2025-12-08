@@ -123,3 +123,4 @@
   * [2025-12-05 - Avances en Estado y Vite](entradas/2025-12-05.md)
   * [2025-12-06 - Avances en la Migración a React](entradas/2025-12-06.md)
   * [2025-12-07 - Ajustes y Despliegue de la Versión en React](entradas/2025-12-07.md)
+  * [2025-12-08 - Mejoras en Componentes y Modal de BookTrackr](entradas/2025-12-08.md)
