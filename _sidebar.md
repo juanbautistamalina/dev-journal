@@ -128,3 +128,4 @@
   * [2025-12-10 - Avances en React y Preparación para los Próximos Módulos](entradas/2025-12-10.md)
   * [2025-12-11 - Día de Orden](entradas/2025-12-11.md)
   * [2025-12-12 - Profundizando en Estilos y Formularios en React](entradas/2025-12-12.md)
+  * [2025-12-13 - Ordenando estilos y estados en React](entradas/2025-12-13.md)
