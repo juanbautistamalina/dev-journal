@@ -133,3 +133,4 @@
   * [2025-12-15 - Ordenando estados y ajustes responsive](entradas/2025-12-15.md)
   * [2025-12-16 - Funcionalidades CRUD en BookTrackr](entradas/2025-12-16.md)
   * [2025-12-17 - Mejorando la Arquitectura de Componentes](entradas/2025-12-17.md)
+  * [2025-12-18 - Cierre de Funcionalidades Principales](entradas/2025-12-18.md)
