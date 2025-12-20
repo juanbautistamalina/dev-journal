@@ -135,3 +135,4 @@
   * [2025-12-17 - Mejorando la Arquitectura de Componentes](entradas/2025-12-17.md)
   * [2025-12-18 - Cierre de Funcionalidades Principales](entradas/2025-12-18.md)
   * [2025-12-19 - Primeros Pasos con Routing en React](entradas/2025-12-19.md)
+  * [2025-12-20 - Día de descanso](entradas/2025-12-20.md)
