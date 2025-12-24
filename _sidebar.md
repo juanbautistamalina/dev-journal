@@ -138,3 +138,4 @@
   * [2025-12-20 - Día de descanso](entradas/2025-12-20.md)
   * [2025-12-21 - Efectos y Comportamiento Dinámico en React](entradas/2025-12-21.md)
   * [2025-12-23 - Avances leves en Navegación y Rutas en React](entradas/2025-12-23.md)
+  * [2025-12-24 - Ajustes y Correcciones en la Navegación del Proyecto](entradas/2025-12-24.md)
