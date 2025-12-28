@@ -142,3 +142,4 @@
   * [2025-12-24 - Ajustes y Correcciones en la Navegación del Proyecto](entradas/2025-12-24.md)
   * [2025-12-25 - Ajustes de Estilos y Experiencia Móvil](entradas/2025-12-25.md)
   * [2025-12-26 - Mejorando la Gestión de Rutas en React](entradas/2025-12-26.md)
+  * [2025-12-27 - Día de Descanso y Desconexión](entradas/2025-12-27.md)
