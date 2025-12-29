@@ -144,3 +144,4 @@
   * [2025-12-26 - Mejorando la Gestión de Rutas en React](entradas/2025-12-26.md)
   * [2025-12-27 - Día de Descanso y Desconexión](entradas/2025-12-27.md)
   * [2025-12-28 - Ordenando Código y Lógica del Proyecto](entradas/2025-12-28.md)
+  * [2025-12-29 - Consolidando Hooks y Formularios en React](entradas/2025-12-29.md)
