@@ -146,3 +146,4 @@
   * [2025-12-28 - Ordenando Código y Lógica del Proyecto](entradas/2025-12-28.md)
   * [2025-12-29 - Consolidando Hooks y Formularios en React](entradas/2025-12-29.md)
   * [2025-12-30 - Cansancio y Presión de Fin de Año](entradas/2025-12-30.md)
+  * [2025-12-31 - Cierre del Año y Metas para 2026](entradas/2025-12-31.md)
