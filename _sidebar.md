@@ -147,5 +147,6 @@
   * [2025-12-29 - Consolidando Hooks y Formularios en React](entradas/2025-12-29.md)
   * [2025-12-30 - Cansancio y Presión de Fin de Año](entradas/2025-12-30.md)
   * [2025-12-31 - Cierre del Año y Metas para 2026](entradas/2025-12-31.md)
-  * [2025-01-01 — Inicio de Año y Primeros Avances](entradas/2026-01-01.md)
-  * [2025-01-02 — Inicio de CS50x](entradas/2026-01-02.md)
+  * [2026-01-01 — Inicio de Año y Primeros Avances](entradas/2026-01-01.md)
+  * [2026-01-02 — Inicio de CS50x](entradas/2026-01-02.md)
+  * [2026-01-03 — Avanzando en CS50x](entradas/2026-01-03.md)
