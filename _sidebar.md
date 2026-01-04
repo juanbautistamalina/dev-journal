@@ -150,3 +150,4 @@
   * [2026-01-01 — Inicio de Año y Primeros Avances](entradas/2026-01-01.md)
   * [2026-01-02 — Inicio de CS50x](entradas/2026-01-02.md)
   * [2026-01-03 — Avanzando en CS50x](entradas/2026-01-03.md)
+  * [2026-01-04 — Lecture 0 completada](entradas/2026-01-04.md)
