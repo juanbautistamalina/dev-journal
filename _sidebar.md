@@ -152,3 +152,4 @@
   * [2026-01-03 — Avanzando en CS50x](entradas/2026-01-03.md)
   * [2026-01-04 — Lecture 0 completada](entradas/2026-01-04.md)
   * [2026-01-05 — CS50x: Week 0 finalizada](entradas/2026-01-05.md)
+  * [2026-01-06 — Inicio de la Week 1: C](entradas/2026-01-06.md)
