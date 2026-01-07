@@ -153,3 +153,4 @@
   * [2026-01-04 — Lecture 0 completada](entradas/2026-01-04.md)
   * [2026-01-05 — Cierre de la Week 0: Scratch](entradas/2026-01-05.md)
   * [2026-01-06 — Inicio de la Week 1: C](entradas/2026-01-06.md)
+  * [2026-01-07 — Avances en la Week 1: Primeros Pasos con C](entradas/2026-01-07.md)
