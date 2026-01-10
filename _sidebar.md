@@ -156,3 +156,4 @@
   * [2026-01-07 — Avances en la Week 1: Primeros Pasos con C](entradas/2026-01-07.md)
   * [2026-01-08 — Avances Clave en la Week 1: Fundamentos de C](entradas/2026-01-08.md)
   * [2026-01-09 — Profundizando en la Week 1: Teoría y Primeros Ejercicios en C](entradas/2026-01-09.md)
+  * [2026-01-10 — Avanzando en la Week 1: Profundizando Conceptos](entradas/2026-01-10.md)
