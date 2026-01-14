@@ -160,3 +160,4 @@
   * [2026-01-11 — Día de descanso](entradas/2026-01-11.md)
   * [2026-01-12 — Avances en la Week 1: Completando Problem Sets](entradas/2026-01-12.md)
   * [2026-01-13 — Cierre de la Week 1: C](entradas/2026-01-13.md)
+  * [2026-01-14 — Inicio de la Week 2: Arrays](entradas/2026-01-14.md)
