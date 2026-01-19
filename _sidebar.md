@@ -165,3 +165,4 @@
   * [2026-01-16 — Profundizando en la Week 2: Arrays](entradas/2026-01-16.md)
   * [2026-01-17 — Resolviendo ejercicios de la Week 2: Comenzando con los Problem Sets](entradas/2026-01-17.md)
   * [2026-01-18 — Resolución de Problem Sets: Week 2 — Arrays](entradas/2026-01-18.md)
+  * [2026-01-19 — Cierre de la Week 2: Arrays](entradas/2026-01-19.md)
