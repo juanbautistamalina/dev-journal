@@ -167,3 +167,4 @@
   * [2026-01-18 — Resolución de Problem Sets: Week 2 — Arrays](entradas/2026-01-18.md)
   * [2026-01-19 — Cierre de la Week 2: Arrays](entradas/2026-01-19.md)
   * [2026-01-20 — Inicio de la Week 3: Algorithms](entradas/2026-01-20.md)
+  * [2026-01-21 — Avances en la Week 3: Algorithms](entradas/2026-01-21.md)
