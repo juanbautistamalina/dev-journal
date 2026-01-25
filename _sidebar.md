@@ -169,3 +169,4 @@
   * [2026-01-20 — Inicio de la Week 3: Algorithms](entradas/2026-01-20.md)
   * [2026-01-21 — Avances en la Week 3: Algorithms](entradas/2026-01-21.md)
   * [2026-01-22 — Profundizando en la Week 3: Algorithms](entradas/2026-01-22.md)
+  * [2026-01-23, 24 y 25 — Días fuera del teclado](entradas/2026-01-23-25.md)
