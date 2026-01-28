@@ -171,3 +171,4 @@
   * [2026-01-22 — Profundizando en la Week 3: Algorithms](entradas/2026-01-22.md)
   * [2026-01-23, 24 y 25 — Días fuera del teclado](entradas/2026-01-23-25.md)
   * [2026-01-26 — Retomando la Week 3: Algorithms](entradas/2026-01-26.md)
+  * [2026-01-27 — Iniciando los Problem Sets de la Week 3: Algorithms](entradas/2026-01-27.md)
