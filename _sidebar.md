@@ -173,3 +173,4 @@
   * [2026-01-26 — Retomando la Week 3: Algorithms](entradas/2026-01-26.md)
   * [2026-01-27 — Iniciando los Problem Sets de la Week 3: Algorithms](entradas/2026-01-27.md)
   * [2026-01-28 — Avances en la Week 3: Completando Problem Sets](entradas/2026-01-28.md)
+  * [2026-01-29 — Avanzando en los Problem Sets de la Week 3: Algorithms](entradas/2026-01-29.md)
