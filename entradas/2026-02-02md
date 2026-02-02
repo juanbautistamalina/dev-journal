@@ -1,0 +1,24 @@
+# 📅 2026-02-02 — Avances en la Week 4: Memory
+
+## 🛠️ Proyecto o práctica aplicada
+
+**Tecnologías:** C
+
+**¿Qué hice?**
+
+- Continué avanzando con el curso **CS50x** (**Week 4 — Memory**). ✅
+- Avancé aproximadamente 1 hora en la **Lecture 4 — Memory**. ⏱️
+
+## 💭 Reflexiones
+
+Hoy continué avanzando con la **Lecture 4** del curso **CS50x**. Vi alrededor de 1 hora de las 2 horas y 20 minutos que dura en total la conferencia.
+
+Hasta el momento, es el módulo que se me está haciendo más pesado y complejo. Principalmente porque se introducen los **punteros (pointers)**, un concepto clave pero bastante abstracto al principio.
+
+Además, se explica qué hay realmente detrás del tipo de dato `string`, el cual **no existe como tal en C**, y cómo en realidad se trata de un **puntero a `char`**.
+
+A pesar de la dificultad, vengo tomando notas bastante detalladas tanto de las explicaciones como del código, lo cual siento que me está ayudando a asimilar mejor los conceptos. Sé que este módulo requiere paciencia y tiempo, así que voy a seguir avanzando paso a paso.
+
+## 🔗 Recursos
+
+- [Harvard CS50x](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)

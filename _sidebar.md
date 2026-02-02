@@ -177,3 +177,4 @@
   * [2026-01-30 — Cierre de la Week 3: Algorithms](entradas/2026-01-30.md)
   * [2026-01-31 — Día de descanso y recarga](entradas/2026-01-31.md)
   * [2026-02-01 — Inicio de la Week 4: Memory](entradas/2026-02-01.md)
+  * [2026-02-02 — Avances en la Week 4: Memory](entradas/2026-02-02.md)
