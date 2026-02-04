@@ -179,3 +179,4 @@
   * [2026-02-01 — Inicio de la Week 4: Memory](entradas/2026-02-01.md)
   * [2026-02-02 — Avances en la Week 4: Memory](entradas/2026-02-02.md)
   * [2026-02-03 — Profundizando en la Week 4: Memory](entradas/2026-02-03.md)
+  * [2026-02-04 — Avances Clave en la Week 4: Memory](entradas/2026-02-04.md)
