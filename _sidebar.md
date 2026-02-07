@@ -181,3 +181,4 @@
   * [2026-02-03 — Profundizando en la Week 4: Memory](entradas/2026-02-03.md)
   * [2026-02-04 — Avances Clave en la Week 4: Memory](entradas/2026-02-04.md)
   * [2026-02-05 — Avances en la Week 4: Contenido Complementario](entradas/2026-02-05.md)
+  * [2026-02-06 — Avances en la Week 4: Shorts](entradas/2026-02-06.md)
