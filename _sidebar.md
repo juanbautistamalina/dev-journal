@@ -184,3 +184,4 @@
   * [2026-02-06 — Avances en la Week 4: Shorts](entradas/2026-02-06.md)
   * [2026-02-07 — Iniciando los Problem Sets de la Week 4: Memory](entradas/2026-02-07.md)
   * [2026-02-08 — Avances en la Week 4: Completando Problem Sets](entradas/2026-02-08.md)
+  * [2026-02-09 — Cierre de la Week 4: Memory](entradas/2026-02-09.md)
