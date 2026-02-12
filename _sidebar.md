@@ -186,3 +186,4 @@
   * [2026-02-08 — Avances en la Week 4: Completando Problem Sets](entradas/2026-02-08.md)
   * [2026-02-09 — Cierre de la Week 4: Memory](entradas/2026-02-09.md)
   * [2026-02-10 — Inicio de la Week 5: Data Structures](entradas/2026-02-10.md)
+  * [2026-02-11 - Avances en la Week 5: Data Structures](entradas/2026-02-11.md)
