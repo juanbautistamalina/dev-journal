@@ -188,3 +188,4 @@
   * [2026-02-10 — Inicio de la Week 5: Data Structures](entradas/2026-02-10.md)
   * [2026-02-11 - Avances en la Week 5: Data Structures](entradas/2026-02-11.md)
   * [2026-02-12 — Profundizando en la Week 5: Data Structures](entradas/2026-02-12.md)
+  * [2026-02-13 - Avances Clave en la Week 5: Data Structures](entradas/2026-02-13.md)
