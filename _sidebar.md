@@ -190,3 +190,4 @@
   * [2026-02-12 — Profundizando en la Week 5: Data Structures](entradas/2026-02-12.md)
   * [2026-02-13 - Avances Clave en la Week 5: Data Structures](entradas/2026-02-13.md)
   * [2026-02-14 — Avances en la Week 5: Section](entradas/2026-02-14.md)
+  * [2026-02-15 — Avances en la Week 5: Shorts](entradas/2026-02-15.md)
