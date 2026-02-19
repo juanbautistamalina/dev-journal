@@ -193,3 +193,4 @@
   * [2026-02-15 — Avances en la Week 5: Shorts](entradas/2026-02-15.md)
   * [2026-02-16 — Cierre Teórico de la Week 5](entradas/2026-02-16.md)
   * [2026-02-17 — Iniciando los Problem Sets de la Week 5: Data Structures](entradas/2026-02-17.md)
+  * [2026-02-18 — Cierre de la Week 5: Data Structures](entradas/2026-02-18.md)
