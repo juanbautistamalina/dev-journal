@@ -198,3 +198,4 @@
   * [2026-02-20 — Avances en la Week 6: Python](entradas/2026-02-20.md)
   * [2026-02-21 — Cierre de la Week 6: Python](entradas/2026-02-21.md)
   * [2026-02-22 - Inicio de la Week 7: SQL](entradas/2026-02-22.md)
+  * [2026-02-23 — Avances en la Week 7: SQL](entradas/2026-02-23.md)
