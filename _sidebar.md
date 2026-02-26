@@ -201,3 +201,4 @@
   * [2026-02-23 — Avances en la Week 7: SQL](entradas/2026-02-23.md)
   * [2026-02-24 — Profundizando en la Week 7: SQL](entradas/2026-02-24.md)
   * [2026-02-25 — Cierre de la Week 7: SQL](entradas/2026-02-25.md)
+  * [2026-02-26 — Inicio de la Week 8: HTML, CSS y JavaScript](entradas/2026-02-26.md)
