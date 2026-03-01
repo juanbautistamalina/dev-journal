@@ -204,3 +204,4 @@
   * [2026-02-26 — Inicio de la Week 8: HTML, CSS y JavaScript](entradas/2026-02-26.md)
   * [2026-02-27 — Avances en la Week 8: HTML, CSS y JavaScript](entradas/2026-02-27.md)
   * [2026-02-28 — Cierre de la Week 8: HTML, CSS y JavaScript](entradas/2026-02-28.md)
+  * [2026-03-01 — Artificial Intelligence](entradas/2026-03-01.md)
