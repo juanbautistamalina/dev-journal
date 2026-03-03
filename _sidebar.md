@@ -206,3 +206,4 @@
   * [2026-02-28 — Cierre de la Week 8: HTML, CSS y JavaScript](entradas/2026-02-28.md)
   * [2026-03-01 — Artificial Intelligence](entradas/2026-03-01.md)
   * [2026-03-02 — Inicio de la Week 9: Flask](entradas/2026-03-02.md)
+  * [2026-03-03 — Avances en la Week 9: Flask](entradas/2026-03-03.md)
