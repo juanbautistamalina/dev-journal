@@ -208,3 +208,4 @@
   * [2026-03-02 — Inicio de la Week 9: Flask](entradas/2026-03-02.md)
   * [2026-03-03 — Avances en la Week 9: Flask](entradas/2026-03-03.md)
   * [2026-03-04 — Profundizando en la Week 9: Flask](entradas/2026-03-04.md)
+  * [2026-03-05 — Avances Clave en la Week 9: Flask](entradas/2026-03-05.md)
