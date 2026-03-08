@@ -210,3 +210,4 @@
   * [2026-03-04 — Profundizando en la Week 9: Flask](entradas/2026-03-04.md)
   * [2026-03-05 — Avances Clave en la Week 9: Flask](entradas/2026-03-05.md)
   * [2026-03-06 — Cierre de la Week 9: Flask](entradas/2026-03-06.md)
+  * [2026-03-07 — Fin de CS50x](entradas/2026-03-07.md)
