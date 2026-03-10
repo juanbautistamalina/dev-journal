@@ -213,3 +213,4 @@
   * [2026-03-07 — Fin de CS50x](entradas/2026-03-07.md)
   * [2026-03-08 — Día de descanso](entradas/2026-03-08.md)
   * [2026-03-09 — Actualizando mi CV y LinkedIn](entradas/2026-03-09.md)
+  * [2026-03-10 — Ajustes finales al currículum](entradas/2026-03-10.md)
