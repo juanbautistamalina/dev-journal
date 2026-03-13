@@ -215,3 +215,4 @@
   * [2026-03-09 — Actualizando mi CV y LinkedIn](entradas/2026-03-09.md)
   * [2026-03-10 — Ajustes finales al currículum](entradas/2026-03-10.md)
   * [2026-03-11 — Decidiendo el próximo paso](entradas/2026-03-11.md)
+  * [2026-03-12 — Reaprendiendo Node.js](entradas/2026-03-12.md)
