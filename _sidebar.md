@@ -216,3 +216,4 @@
   * [2026-03-10 — Ajustes finales al currículum](entradas/2026-03-10.md)
   * [2026-03-11 — Decidiendo el próximo paso](entradas/2026-03-11.md)
   * [2026-03-12 — Reaprendiendo Node.js](entradas/2026-03-12.md)
+  * [2026-03-13 — Continuando con Node.js](entradas/2026-03-13.md)
