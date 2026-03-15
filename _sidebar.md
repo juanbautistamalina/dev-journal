@@ -217,3 +217,4 @@
   * [2026-03-11 — Decidiendo el próximo paso](entradas/2026-03-11.md)
   * [2026-03-12 — Reaprendiendo Node.js](entradas/2026-03-12.md)
   * [2026-03-13 — Continuando con Node.js](entradas/2026-03-13.md)
+  * [2026-03-14 — Día de descanso](entradas/2026-03-14.md)
