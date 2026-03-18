@@ -220,3 +220,4 @@
   * [2026-03-14 — Día de descanso](entradas/2026-03-14.md)
   * [2026-03-15 — Avanzando con Node.js](entradas/2026-03-15.md)
   * [2026-03-16 — Avanzando con el backend de BookTrackr](entradas/2026-03-16.md)
+  * [2026-03-17 — Backend completado en BookTrackr](entradas/2026-03-17.md)
