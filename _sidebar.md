@@ -222,3 +222,4 @@
   * [2026-03-16 — Avanzando con el backend de BookTrackr](entradas/2026-03-16.md)
   * [2026-03-17 — Backend completado en BookTrackr](entradas/2026-03-17.md)
   * [2026-03-18 — Inicio de Full Stack Open](entradas/2026-03-18.md)
+  * [2026-03-19 — Avances en Full Stack Open](entradas/2026-03-19.md)
