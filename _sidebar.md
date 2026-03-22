@@ -224,3 +224,4 @@
   * [2026-03-18 — Inicio de Full Stack Open](entradas/2026-03-18.md)
   * [2026-03-19 — Avances en Full Stack Open](entradas/2026-03-19.md)
   * [2026-03-20 — Continuando con Full Stack Open](entradas/2026-03-20.md)
+  * [2026-03-21 — Avanzando con Full Stack Open](entradas/2026-03-21.md)
