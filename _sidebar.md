@@ -227,3 +227,4 @@
   * [2026-03-21 — Avanzando con Full Stack Open](entradas/2026-03-21.md)
   * [2026-03-22 — Últimos avances en la Parte 1](entradas/2026-03-22.md)
   * [2026-03-23 — Avanzando hacia la Parte 2](entradas/2026-03-23.md)
+  * [2026-03-24 — Profundizando en la Parte 2](entradas/2026-03-24.md)
