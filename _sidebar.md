@@ -228,3 +228,4 @@
   * [2026-03-22 — Últimos avances en la Parte 1](entradas/2026-03-22.md)
   * [2026-03-23 — Avanzando hacia la Parte 2](entradas/2026-03-23.md)
   * [2026-03-24 — Profundizando en la Parte 2](entradas/2026-03-24.md)
+  * [2026-03-25 — Avanzando en la Parte 2](entradas/2026-03-25.md)
