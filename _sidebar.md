@@ -229,3 +229,4 @@
   * [2026-03-23 — Avanzando hacia la Parte 2](entradas/2026-03-23.md)
   * [2026-03-24 — Profundizando en la Parte 2](entradas/2026-03-24.md)
   * [2026-03-25 — Avanzando en la Parte 2](entradas/2026-03-25.md)
+  * [2026-03-26 — Repaso de fundamentos](entradas/2026-03-26.md)
