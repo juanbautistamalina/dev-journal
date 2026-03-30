@@ -232,3 +232,4 @@
   * [2026-03-26 — Repaso de fundamentos](entradas/2026-03-26.md)
   * [2026-03-27 — Cierre de la Parte 2](entradas/2026-03-27.md)
   * [2026-03-28 — Día de descanso](entradas/2026-03-28.md)
+  * [2026-03-29 — Segundo día de descanso](entradas/2026-03-29.md)
