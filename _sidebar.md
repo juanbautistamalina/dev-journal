@@ -236,3 +236,4 @@
   * [2026-03-30 — Reforzando conceptos antes de avanzar](entradas/2026-03-30.md)
   * [2026-03-31 — Activando la búsqueda laboral](entradas/2026-03-31.md)
   * [2026-04-01 — Mejorando GitHub y portfolio](entradas/2026-04-01.md)
+  * [2026-04-02 — Día de baja actividad](entradas/2026-04-02.md)
