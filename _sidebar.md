@@ -237,3 +237,4 @@
   * [2026-03-31 — Activando la búsqueda laboral](entradas/2026-03-31.md)
   * [2026-04-01 — Mejorando GitHub y portfolio](entradas/2026-04-01.md)
   * [2026-04-02 — Día de baja actividad](entradas/2026-04-02.md)
+  * [2026-04-03 — Cierre del repaso de la Parte 2](entradas/2026-04-03.md)
