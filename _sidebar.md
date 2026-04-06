@@ -240,3 +240,4 @@
   * [2026-04-03 — Cierre del repaso de la Parte 2](entradas/2026-04-03.md)
   * [2026-04-04 — Inicio de la Parte 3](entradas/2026-04-04.md)
   * [2026-04-05 — Organizando el progreso del curso](entradas/2026-04-05.md)
+  * [2026-04-06 — De APIs simuladas a backend real](entradas/2026-04-06.md)
