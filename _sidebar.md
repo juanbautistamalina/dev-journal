@@ -243,3 +243,4 @@
   * [2026-04-06 — De APIs simuladas a backend real](entradas/2026-04-06.md)
   * [2026-04-07 — Trabajando con rutas y endpoints](entradas/2026-04-07.md)
   * [2026-04-08 — Introducción a middlewares](entradas/2026-04-08.md)
+  * [2026-04-09 — Introducción al despliegue](entradas/2026-04-09.md)
