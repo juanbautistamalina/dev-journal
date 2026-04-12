@@ -246,3 +246,4 @@
   * [2026-04-09 — Introducción al despliegue](entradas/2026-04-09.md)
   * [2026-04-10 — Cierre del módulo de despliegue](entradas/2026-04-10.md)
   * [2026-04-11 — Día de descanso](entradas/2026-04-11.md)
+  * [2026-04-12 — Pausa y preparación para retomar](entradas/2026-04-12.md)
