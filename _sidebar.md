@@ -249,3 +249,4 @@
   * [2026-04-12 — Pausa y preparación para retomar](entradas/2026-04-12.md)
   * [2026-04-13 — Consolidando despliegue y documentación](entradas/2026-04-13.md)
   * [2026-04-14 — Introducción a MongoDB](entradas/2026-04-14.md)
+  * [2026-04-15 — Primeros pasos con MongoDB](entradas/2026-04-15.md)
